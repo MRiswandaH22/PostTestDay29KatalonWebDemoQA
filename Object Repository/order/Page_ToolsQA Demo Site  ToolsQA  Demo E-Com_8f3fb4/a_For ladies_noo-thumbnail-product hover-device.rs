@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_For ladies_noo-thumbnail-product hover-device</name>
+   <tag></tag>
+   <elementGuidId>1e28f96a-6b63-4d1b-9d01-cb5f59cd407f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id='noo-site']/div[2]/div[3]/div/div[2]/div/div/div/div[2]/div[2]/div[1]/div/h3</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.noo-thumbnail-product.hover-device</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>1c8c9d4c-88c0-40b7-9695-2a7fd36b071c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://shop.demoqa.com/product/pink-drop-shoulder-oversized-t-shirt/</value>
+      <webElementGuid>926118b3-a5e4-4a28-92ec-be9a08cbff5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>noo-thumbnail-product hover-device</value>
+      <webElementGuid>8011309d-2dfd-4faf-b678-6342d0688c94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;noo-site&quot;)/div[@class=&quot;page_fullwidth&quot;]/div[@class=&quot;noo-container-fluid&quot;]/div[@class=&quot;vc_row wpb_row vc_row-fluid vc_custom_1465285769156&quot;]/div[@class=&quot;padding-stylebox wpb_column vc_column_container vc_col-sm-12 vc_col-lg-7 vc_col-md-7 vc_hidden-sm&quot;]/div[@class=&quot;vc_column-inner vc_custom_1465550709194&quot;]/div[@class=&quot;wpb_wrapper&quot;]/div[@class=&quot;noo-shortcode-product-wrap&quot;]/div[@class=&quot;noo-sh-product-grid woocommerce&quot;]/div[@class=&quot;noo-sh-product-html columns_3 no_masonry three row is-flex&quot;]/div[@class=&quot;noo-product-item noo-product-sm-4 not_featured post-1497 product type-product status-publish has-post-thumbnail product_cat-t-shirt product_tag-t-shirt product_tag-women has-featured first instock shipping-taxable purchasable product-type-variable&quot;]/div[@class=&quot;noo-product-inner noo-product-inner2&quot;]/div[@class=&quot;noo-product-thumbnail&quot;]/a[@class=&quot;noo-thumbnail-product hover-device&quot;]</value>
+      <webElementGuid>22cacbd9-bc6e-4995-963f-2d5a3635b6b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='noo-site']/div[2]/div[3]/div/div[2]/div/div/div/div[2]/div[2]/div/div/div/a</value>
+      <webElementGuid>9d4ef875-143b-41f8-af8b-cd1e2b108edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='For ladies'])[1]/following::a[1]</value>
+      <webElementGuid>4bfe8cfc-1a3d-4244-93f2-452ce7c7e026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOW NOW'])[1]/following::a[1]</value>
+      <webElementGuid>4b6dc19c-447b-4783-b820-04212a05ed6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Compare'])[1]/preceding::a[1]</value>
+      <webElementGuid>7b6cd6e5-cdec-4461-9f71-079fdff95dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Wishlist'])[1]/preceding::a[2]</value>
+      <webElementGuid>91d12902-d0d1-431b-a6ff-55a18845b377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://shop.demoqa.com/product/pink-drop-shoulder-oversized-t-shirt/')]</value>
+      <webElementGuid>d051af3a-9d01-4703-a09b-bb17ec49398e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/a</value>
+      <webElementGuid>fe9c69e5-4c92-4371-9eab-161fdf69576c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://shop.demoqa.com/product/pink-drop-shoulder-oversized-t-shirt/']</value>
+      <webElementGuid>2f55eb3b-9b13-4601-a4eb-cba8415c65fc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
